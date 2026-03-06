@@ -1,0 +1,4 @@
+streamlit>=1.30.0
+gunicorn
+pandas>=2.0.0  # 新增：处理CSV导入
+streamlit-option-menu==0.3.2
